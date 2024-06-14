@@ -4,6 +4,8 @@ Este es un proyecto de página estática para un cliente Donjota de la WebCafe. 
 
 ![Captura de pantalla de la Landing Page](https://github.com/Fedemramos/cafepages.github.io/assets/114125535/777d27a4-ec73-4a92-9a06-b337dce330e6)
 
+Link: https://fedemramos.github.io/cafepages.github.io/
+
 ## Descripción
 
 WebCafe es un proyecto destinado a promocionar un café ficticio llamado WebCafe. La página estática presenta el diseño de la landing page, que incluye información sobre el café, menús, horarios de apertura, ubicación y contacto.
